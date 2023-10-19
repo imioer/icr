@@ -1,3 +1,8 @@
-## [IČR](../../) > [Figma](../) > Reference
+## [Figma](../) > Reference
 
-Lista kratkih _"how to"_ uputstava 
+Lista kratkih uputstava vezanih za specifične delove Figme.
+
+### Uputstva
+
+- [_**Effects**_](./effects.md)
+- TODO
