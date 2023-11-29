@@ -1,4 +1,3 @@
 ## Figma
 
-- [_**Tutorijal**_](./tutorijal/)
-- [_**Reference**_](./reference/)
+- [_**Online resursi**_](./resursi.md)
