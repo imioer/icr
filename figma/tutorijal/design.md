@@ -1,5 +1,7 @@
 ## [Figma](../../) > [Tutorijal](../) > Design
 
+## _**-- stranica je u izradi --**_
+
 Kreiranje izgleda aplikacije.
 
 ## Snimci

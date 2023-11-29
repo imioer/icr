@@ -1,3 +1,0 @@
-## [Figma](../) > [Reference](./) > Effects
-
-- TODO
