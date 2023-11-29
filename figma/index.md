@@ -5,7 +5,7 @@
 
 ### Components
 - [Creating Components](https://youtu.be/9xiRHz72du4?si=vevN_XxhXETMZnhP) (6 min)
-- [Variants](https://youtu.be/AwnJyGV-3Zs?si=WL4tGqGYsMXD6eoe) (10 min) / Figma Tutorial: Variants (14 min)
+- [Variants](https://youtu.be/AwnJyGV-3Zs?si=WL4tGqGYsMXD6eoe) (10 min) / [Figma Tutorial: Variants](https://youtu.be/y29Xwt9dET0?si=rw8a0hjHJ89FzaJb) (14 min)
 - [Figma Tutorial: Interactive Components](https://youtu.be/ReNbXhaL3Xk?si=UxaPOaR5l7lh8ewR) (9 min)
 
 ### Scroll
