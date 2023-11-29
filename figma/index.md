@@ -1,4 +1,4 @@
-## [Figma](../) > Reference
+## Figma - Resursi za učenje
 
 ### Uvod u Figmu
 - [Figma for beginners (Playlist)](https://youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&si=Qpc9117LchNvAbiJ)
